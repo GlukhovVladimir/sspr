@@ -11,7 +11,7 @@ public class functionsTest {
         int a = 5;
         int b = 10;
         int sum = functions.sum(a,b);
-        Assertions.assertEquals(15, sum);
+        Assertions.assertEquals(20, sum);
     }
 
     @Test
